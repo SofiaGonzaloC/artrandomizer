@@ -9,6 +9,9 @@
   "author": "Sofia Gonzalez",
   "license": "ISC",
   "dependencies": {
-    "colors": "^1.4.0"
+    "colors": "^1.4.0",
+    "console": "^0.7.2",
+    "fs": "^0.0.1-security",
+    "uuid": "^9.0.1"
   }
 }

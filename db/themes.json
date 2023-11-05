@@ -1,0 +1,116 @@
+[
+    {
+        "title": "Character / creature",
+        "description": "Sketch a creature or character (No coloring)",
+        "subthemes": [
+            "Face expressions",
+            "Creature",
+            "Anatomy"
+        ],
+        "resources": [
+            {
+                "title": "How NOT to suck at Lineart | DrawlikeaSir",
+                "url": "https://www.youtube.com/watch?v=O61NED7VZIc&list=PLnyWNGgQ4CvZX1DicqXdOKUvdCx22wp6O&index=11"
+            },
+            {
+                "title": "Dibujar SIN LINEART sin morir en el intento",
+                "url": "https://www.youtube.com/watch?v=mi_lO5hCTdg&list=PLnyWNGgQ4CvZX1DicqXdOKUvdCx22wp6O&index=12"
+            },
+            {
+                "title": "How to Cartoonize People From Photo References | Procreate",
+                "url": "https://www.youtube.com/watch?v=Of-mweV392I&list=PLnyWNGgQ4CvZX1DicqXdOKUvdCx22wp6O&index=18"
+            },
+            {
+                "title": "Bodies in motion",
+                "url": "https://www.bodiesinmotion.photo/"
+            },
+            {
+                "title": "Save Loomis",
+                "url": "https://www.alexhays.com/loomis/"
+            },
+            {
+                "title": "Character design references",
+                "url": "https://www.pinterest.com/characterdesigh/"
+            },
+            {
+                "title": "Character design based on real people | Procreate Timelapse",
+                "url": "https://www.youtube.com/watch?v=1z9GvRfBg4U&list=PLnyWNGgQ4CvZX1DicqXdOKUvdCx22wp6O&index=36"
+            },
+            {
+                "title": "Reference books",
+                "url": "https://drive.google.com/drive/folders/15AMwWf77jwjB1Ttv_b7tm64DQoR01plP"
+            },
+            {
+                "title": "Figure drawing books",
+                "url": "https://drive.google.com/drive/folders/1qdWSpVSJ5OfqTS8u3SZyHPFuRTNA1mIy"
+            }
+
+        ]
+    },
+    {
+        "title": "Backgrounds",
+        "description": "Sketch a background (No coloring)",
+        "subthemes": [
+            "Nature",
+            "Architecture",
+            "Interior"
+        ],
+        "resources": [
+            {
+                "title": "Perspective books",
+                "url": "https://drive.google.com/drive/folders/1GtYzTdvX93ZSubTthfKSB6aA4_x7yD8G"
+            }
+        ]
+    },
+    {
+        "title": "Practice coloring",
+        "description": "Either from a previous project or an internet drawing, practice coloring",
+        "resources": [
+            {
+                "title": "I Learned How to Paint Portraits in 24 Hours",
+                "url": "https://www.youtube.com/watch?v=7PzZtylPZcA&list=PLnyWNGgQ4CvZX1DicqXdOKUvdCx22wp6O"
+            },
+            {
+                "title": "🤩 SHADING EXERCISES TO PAINT LIKE 3D RENDERS",
+                "url": "https://www.youtube.com/watch?v=cfLKHbmhCIY&list=PLnyWNGgQ4CvZX1DicqXdOKUvdCx22wp6O"
+            },
+            {
+                "title": "The Shading Lesson That Made My Art Career Possible",
+                "url": "https://www.youtube.com/watch?v=DQ5QF0q4QqQ&list=PLnyWNGgQ4CvZX1DicqXdOKUvdCx22wp6O"
+            },
+            {
+                "title": "HOW TO PAINT A CHARACTER IN 7 STEPS",
+                "url": "https://www.youtube.com/watch?v=01ppqfFh8ss&list=PLnyWNGgQ4CvZX1DicqXdOKUvdCx22wp6O"
+            },
+            {
+                "title": "How to Learn Digital Painting (Beginners)",
+                "url": "https://www.youtube.com/watch?v=iwRa5qTnr8o&list=PLnyWNGgQ4CvZX1DicqXdOKUvdCx22wp6O"
+            },
+            {
+                "title": "How to paint your character in Procreate + Free Brushes",
+                "url": "https://www.youtube.com/watch?v=zDqXrruQx2w&list=PLnyWNGgQ4CvZX1DicqXdOKUvdCx22wp6O&index=35&pp=gAQBiAQB"
+            },
+            {
+                "title": "Painting from GRAYSCALE to COLOR | TUTORIAL",
+                "url": "https://www.youtube.com/watch?v=QmVtTaucpj8&list=PLnyWNGgQ4CvZX1DicqXdOKUvdCx22wp6O"
+            },
+            {
+                "title": "HOW TO CHOOSE COHESIVE COLOURS FOR YOUR ARTWORK 🎨 | Colour Theory + Colour Palette Tips",
+                "url": "https://www.youtube.com/watch?v=Dh_ydxaf8xY&list=PLnyWNGgQ4CvZX1DicqXdOKUvdCx22wp6O"
+            },
+            {
+                "title": "How to color your character step by step | Procreate",
+                "url": "https://www.youtube.com/watch?v=kFkOVz6jffg&list=PLnyWNGgQ4CvZX1DicqXdOKUvdCx22wp6O"
+            }
+        ]
+    },
+    {
+        "title": "Pixel Art",
+        "description": "Just pixel art",
+        "subthemes": [
+            "Illustration",
+            "Character / Creature sheet",
+            "Asset sheet"
+        ]
+    }
+]
